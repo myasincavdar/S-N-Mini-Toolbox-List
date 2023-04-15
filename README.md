@@ -8,7 +8,7 @@ Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bil
 [BleachBit](https://www.bleachbit.org/ "BleachBit") - Linux ve Windows sistemlerinde kullanılabilen, gereksiz dosyaları temizleyen ve gizlilik ayarlarını yönetmenizi sağlayan bir araç.
 
 ### Donanım Tanıma ve Sürücü Yönetimi Araçları
-[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html "CPU-Z") - Windows ve Android sistemlerinde kullanılabilen, CPU ve bellek özelliklerini gösteren bir araç. Linux için [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X "CPU-X") adında bir alternatif mevcut.
+[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html "CPU-Z") - Windows ve Android sistemlerinde kullanılabilen, CPU ve bellek özelliklerini gösteren bir araç. Linux için [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X "CPU-X") adında bir alternatifi mevcut.
 
 [GPU-Z](https://www.techpowerup.com/gpuz/ "GPU-Z") - Windows sistemlerinde kullanılabilen, grafik kartı özelliklerini gösteren bir araç.
 
