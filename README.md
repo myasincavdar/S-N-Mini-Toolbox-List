@@ -24,7 +24,7 @@ Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bil
 
 [Process Explorer](https://learn.microsoft.com/sysinternals/downloads/process-explorer "Process Explorer") - Windows sistemlerinde kullanılabilen, işlem yönetimini izleyen bir araç.
 
-[Windows Sysinternals Suite](https://learn.microsoft.com/sysinternals/downloads/sysinternals-suite "Windows Sysinternals Suite") - Windows sistemlerinde kullanılabilen, birçok sistem aracını içeren bir araç paketi
+[Windows Sysinternals Suite](https://learn.microsoft.com/sysinternals/downloads/sysinternals-suite "Windows Sysinternals Suite") - Windows sistemlerinde kullanılabilen, birçok sistem aracını içeren bir araç paketi.
 
 ### USB Bellek Yönetimi
 [Ventoy](https://www.ventoy.net "Ventoy") - USB belleklere birden fazla işletim sistemi veya yazılım yükleyebilmenize olanak tanıyan açık kaynaklı bir yazılımdır. Ventoy, USB belleğe sadece bir kez yüklenir ve ardından birçok ISO dosyasını doğrudan USB bellekten başlatmanıza olanak tanır.
