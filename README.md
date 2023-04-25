@@ -1,5 +1,5 @@
-# Useful-Things-List
-Sistem ve ağda genel bakım, onarım, yedekleme gibi temel işlevleri kolaylaştıran araçların bulunduğu bir liste.
+# System & Network Mini Toolbox List
+Sistem ve ağda genel bakım, onarım, yedekleme gibi temel işlevleri kolaylaştıran araçların bulunduğu ufak bir liste.
 
 ## Sistem Araçları
 Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bileşenlerini yönetmek ve hata ayıklamak için kullanılan araçlar koleksiyonudur.
