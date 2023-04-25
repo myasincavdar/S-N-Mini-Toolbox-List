@@ -1,5 +1,5 @@
 # Useful-Things-List
-Bir çok yararlı araç, hizmet veya servisin bulunduğu liste.
+Sistem ve ağda genel bakım, onarım, yedekleme gibi temel işlevleri kolaylaştıran araçların bulunduğu bir liste.
 
 ## Sistem Araçları
 Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bileşenlerini yönetmek ve hata ayıklamak için kullanılan araçlar koleksiyonudur.
@@ -95,6 +95,8 @@ Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bil
 [Immunet](https://www.immunet.com "Immunet") - Bu araç, özgür ve açık kaynak kodlu bir antivirüs yazılımıdır. Windows işletim sistemi için kullanılabilir ve zararlı yazılımları tespit ederek temizlemenize olanak tanır. Immunet, bulut teknolojisi kullanarak hafif ve hızlı tarama yapar.
 
 ## Ağ Araçları
+
+ Ağ bağlantısı ve cihazlarıyla ilgili sorunları teşhis etmek, ağ performansını izlemek, ağ trafiğini analiz etmek ve ağ güvenliğini sağlamak için kullanılan çeşitli araçlar koleksiyonudur.
 
 ### Ağ Monitörleme ve Yönetim Araçları
 
