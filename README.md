@@ -75,6 +75,8 @@ Sistem Araçları, bilgisayarın işletim sistemini, donanımını ve diğer bil
 
 [DiskCryptor](https://diskcryptor.org/ "DiskCryptor") - Disk şifreleme aracıdır. Windows işletim sistemi için kullanılabilir ve disklerinizi şifreleyerek verilerinizi güvenli hale getirir. 
 
+[HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html) - HashMyFiles, sisteminizdeki bir veya daha fazla dosyanın MD5 ve SHA1 karmalarını hesaplamanıza olanak tanıyan küçük bir yardımcı programdır.
+
 ### Yedekleme ve Kurtarma Araçları
 
 [Clonezilla](https://clonezilla.org/ "Clonezilla") - Disk görüntüleme ve yedekleme aracıdır. Linux tabanlı bir işletim sistemi olarak kullanılabilir ve disklerinizi yedeklemenize, görüntülemenize ve geri yüklemenize olanak tanır.
